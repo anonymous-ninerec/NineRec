@@ -1,7 +1,9 @@
 # The NineRec Dataset Suite: Benchmarking Transfer Learning Performance for Modality-Based Recommender Systems
-This is the git repo of 
+This is the git repo of Ninerec
 
-# Download
+# Dataset
+Download link: https://sandbox.zenodo.org/record/1149488#.Y8tJWxVByUk
+
 
 # Benchmark
 ## Environment Preparation
