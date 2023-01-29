@@ -8,7 +8,11 @@ Download link:
 
 
 # Benchmark
-## Environment Preparation
-`conda create  --name <env> --file requirements.txt`
-
+## Environments
+```
+Pytorch==1.12.1
+cudatoolkit==11.2.152
+sklearn==1.2.0
+python==3.9.12
+```
 # Leaderboard
