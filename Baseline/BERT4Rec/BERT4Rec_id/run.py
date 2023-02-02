@@ -25,7 +25,7 @@ def train(args, use_modal, local_rank):
         if 'bert' in args.NLP_model_load:
             if 'bert_base_uncased' in args.NLP_model_load:
                 Log_file.info('load bert_base_uncased model...')
-                bert_model_load = 'https://huggingface.co/roberta-base'
+                bert_model_load = 'hhttps://huggingface.co/bert-base-uncased'
             elif 'chinese_bert_wwm' in args.NLP_model_load:
                 Log_file.info('load chinese-bert-wwm model...')
                 bert_model_load = 'https://huggingface.co/hfl/chinese-bert-wwm-ext'
