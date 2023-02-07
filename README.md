@@ -7,6 +7,7 @@
 Download link: https://sandbox.zenodo.org/record/1153424#.Y9dALnZByw4
 
 We also provide an auto-downloader to make each image easy to download and available permanently. Run "NineRec_downloader.exe" to start downloading. (still 1000 images per dataset before acceptance)
+![image](https://github.com/anonymous-ninerec/NineRec/blob/main/Downloader/example_image.png)
 
 # Benchmark
 ## Environments
