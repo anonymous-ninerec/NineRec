@@ -1,4 +1,4 @@
-# The NineRec Dataset Suite: Benchmarking Transfer Learning Performance for Modality-Based Recommender Systems
+# NineRec: A Suite of Transfer Learning Datasets for Modality-Based Recommender Systems
 
 
 # Dataset
