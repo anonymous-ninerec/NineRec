@@ -1,6 +1,6 @@
 # NineRec: A Suite of Transfer Learning Datasets for Modality-Based Recommender Systems
 
-This repository is used for anonymous review. Please use the github link in the paper. 
+This repository is used for anonymous review. 
 
 # Dataset
 <!-- **Kindly note that collecting data and running these TransRec experiments cost us a lot of money. Our lead suggested us to release a sample of 1000 images per dataset before acceptance. If reviewers want to see the entire datasets or plan to use it now for their research, we are more than happy to provide full datasets. Feel free to inform us in the rebuttal stage.** -->
@@ -9,11 +9,11 @@ This repository is used for anonymous review. Please use the github link in the 
 
 We have released a sample of 1000 images per dataset, and we will provide access to all datasets and code (which are already included in this submission) once the paper is accepted.
 
-Download link: https://sandbox.zenodo.org/record/1153424#.Y9dALnZByw4
+<!-- **Download link: https://sandbox.zenodo.org/record/1153424#.Y9dALnZByw4** -->
 
 <!-- We also provide an auto-downloader to make each image easy to download and available permanently. Run `NineRec_downloader.exe` to start downloading. (still 1000 images per dataset before acceptance) -->
 
-Additionally, we offer an auto-downloader to simplify the process of downloading each image and make them permanently available. To initiate the download process, run the `NineRec_downloader.exe` file. Currently, the auto-downloader is only compatible with Windows systems, but we will provide a Linux version after acceptance.
+We offer an auto-downloader to simplify the process of downloading each image and make them permanently available. To initiate the download process, run the `NineRec_downloader.exe` file. Currently, the auto-downloader is only compatible with Windows systems, but we will provide a Linux version after acceptance.
 
 <div align=center><img width="150" src="https://github.com/anonymous-ninerec/NineRec/blob/main/Downloader/example_image.png"/></div>
 
