@@ -1,6 +1,6 @@
 # NineRec: A Suite of Transfer Learning Datasets for Modality-Based Recommender Systems
 
-This repository is used for anonymous review. 
+This repository is intended for anonymous review purposes. We have only provided a partial dataset for the purpose of review. Upon acceptance, we will make all the data available for download. Additionally, we will provide a usage license strictly for research purposes, similar to ImageNet's terms.
 
 # Dataset
 <!-- **Kindly note that collecting data and running these TransRec experiments cost us a lot of money. Our lead suggested us to release a sample of 1000 images per dataset before acceptance. If reviewers want to see the entire datasets or plan to use it now for their research, we are more than happy to provide full datasets. Feel free to inform us in the rebuttal stage.** -->
